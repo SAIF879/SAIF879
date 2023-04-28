@@ -14,7 +14,9 @@
 
 - 📫 How to reach me **saifahmed9308@Gmail.com**
 
-- ⚡ Fun fact **"I'm fluent in three languages: English, Sarcasm, and Profanity. I use them interchangeably depending on the situation."**
+- ⚡ Fun fact **"I'm fluent in three languages:
+-  English, Sarcasm, and Profanity.  
+- I use them interchangeably depending on the situation."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
