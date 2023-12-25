@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Airlyft**
 
-- 🌱 I’m currently learning **Jetpack compose**
+- 🌱 I am presently engaged in contributing to WUS, a startup based in Delhi **
 
 - 💬 Ask me about **Android dev, kotlin , Dsa**
 
