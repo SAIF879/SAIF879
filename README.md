@@ -1,6 +1,6 @@
 ![MasterHead](https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
-<h1 align="center">Hi 👋, I'm Mohd Saif Ahmed : )</h1>
-<h3 align="center">A passionate Software enthusiast and android dev from Delhi India | Programmer | Exploring the Depths of Data Structures and Algorithms | Crafting Clean and Efficient Code | Always Learning and Improving".</h3>
+<h1 align="center">Hi 👋, I'm  Saif  : )</h1>
+<h3 align="center">Mai ek AALOO ka challoo insaan banna chata hu </h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
