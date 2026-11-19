@@ -1,32 +1,33 @@
-![MasterHead](https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
-<h1 align="center">Hi 👋, I'm  Saif  : )</h1>
-<h3 align="center">Mai ek AALOO ka challoo insaan banna chata hu </h3>
+# Hi, I'm Saif.
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+I build Android apps in Kotlin and Java. These days, I also ship Android/iOS apps with Kotlin Multiplatform and Compose Multiplatform.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saif879&label=Profile%20views&color=0e75b6&style=flat" alt="saif879" /> </p>
+Lately, I've been working on live video: reconnecting streams, handling camera and audio lifecycles, and tracking down failures after release.
 
-- 🔭 I’m currently working on **Airlyft**
+## A few things I've worked on
 
-- 🌱 I am presently engaged in contributing to WUS, a startup based in Delhi **
+### [Baby's Day In](https://babysday.in)
 
-- 💬 Ask me about **Android dev, kotlin , Dsa**
+At Bipolar Factory, I work on this baby monitor and care-tracking app, released on [Android](https://play.google.com/store/apps/details?id=com.bipolarfactory.miraapp) and [iOS](https://apps.apple.com/us/app/babys-day-in/id6773022911). My work spans shared Compose UI, WebRTC streaming, platform-specific camera and audio handling, and store releases.
 
-- 📫 How to reach me **saifahmed9308@Gmail.com**
+### [Supervision](https://supervisionvms.com)
 
-- ⚡ Fun fact **"I'm fluent in three languages:<br> English, Sarcasm, and Cat : ). <br>I use them interchangeably depending on the situation. : )"**
+Also at Bipolar Factory, I've worked across the desktop client and recording backend for this self-hosted video management system: multi-camera viewing, playback, footage export, and recording reliability.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohd-saif-ahmed-200882219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-saif-ahmed-200882219" height="30" width="40" /></a>
-<a href="https://instagram.com/syed__saifahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syed_saifahmed" height="30" width="40" /></a>
-</p>
+### [The Color Sheet](https://thecolorsheet.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+An independent palette and gradient tool I built with live interface previews, contrast checks, and editing. Saved collections stay in the browser, with exports for taking them elsewhere.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saif879&show_icons=true&locale=en&layout=compact" alt="saif879" /></p>
+### [LogBridge](https://github.com/SAIF879/LogBridge)
 
+I built an Android tool for turning text logs into structured entries. Kotlin calls a native parsing library through JNI; Compose handles the UI and ObjectBox keeps imported logs available offline.
 
+## Notes from Android
+
+I also write about the Android behaviour I want to understand better. [SimulatingProcessDeath](https://github.com/SAIF879/SimulatingProcessDeath) is a small example of restoring text with `SavedStateHandle` after process death, alongside my article, [Oops, Android Killed My App Again](https://medium.com/@saifahmed9308/oops-android-killed-my-app-again-16b475c0e829).
+
+[Email](mailto:saifahmed9308@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mohd-saif-ahmed-200882219) · [More writing](https://medium.com/@saifahmed9308)
+
+*English, sarcasm, and cat. :)*
 
 
