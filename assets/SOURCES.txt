@@ -1,0 +1,43 @@
+PROFILE ASSETS
+
+Original compositions: tools/build-assets.mjs
+Rebuild from repository root: node tools/build-assets.mjs
+The generator uses only Node's standard library. GitHub serves the SVGs directly;
+there is no runtime service, workflow, font download, or image-generation API.
+
+The screen-shaped introduction and cat are original vector drawings. Text uses
+Arial/Helvetica/sans-serif. All project copy and links also appear as native text.
+
+Product images are existing public marketing screenshots, not newly invented UI
+and not claims that Saif designed every pictured element. They are cropped and
+placed in original frames; the screenshot contents are unchanged. They illustrate
+products worked on at Bipolar Factory. Demo names/content come from those public
+marketing materials. No private screenshots, dashboards, logs, or source code are
+included.
+
+Retrieved 2026-11-20:
+
+source/baby-live.webp
+https://babysday.in/_astro/live.eifbXpSx.webp
+Public page: https://babysday.in/
+
+source/baby-wellness.webp
+https://babysday.in/_astro/wellness-light.jqukHBek.webp
+Public page: https://babysday.in/
+
+source/supervision.webp
+https://supervisionvms.com/_astro/live.mlVtfD28_28zqr2.webp
+Public page: https://supervisionvms.com/
+
+Keep these source images local. Upstream hashed URLs may change; the published
+README does not depend on them. Do not replace them with internal product builds.
+Each SVG embeds its local WebP source as data, so image-mode SVG rendering does
+not need to fetch nested external resources.
+
+README picture elements select mobile composition at <=1011px (including GitHub's
+narrow desktop column beside its sidebar). The SVGs contain their own
+prefers-color-scheme styles. Each version has a deliberate opaque background and
+readable contrast even if GitHub's manual theme differs from the OS preference.
+Do not combine viewport and color-scheme conditions in picture source elements:
+GitHub's themed-picture controller rewrites theme conditions and drops viewport
+constraints, which makes the desktop incorrectly select the mobile composition.
